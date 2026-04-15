@@ -14,3 +14,6 @@ Las atracciones más populares en Copenhague:
 
 ## Foto
 ![Foto de Copenhague](https://tusguiasdeviaje.com/wp-content/uploads/2017/07/guia-viaje-copenhague.jpg)
+
+## Informacion sobre Copenhague
+***Copenhague*** es conocida sobre todo por su colorido puerto de ***Nyhavn***, sus palacios reales, su innovadora cocina nórdica moderna y su acogedora cultura *hygge*, que convierten a la capital de *Dinamarca* en uno de los destinos más queridos de Europa. Copenhague tiene la calle comercial peatonal más larga del mundo. En la ciudad hay más bicicletas que coches. La ciudad será completamente neutra en carbono para 2025. La estatua de La Sirenita está construida basándose en el cuento de hadas, y la historia no tiene un final feliz.
