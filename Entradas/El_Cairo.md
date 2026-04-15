@@ -12,3 +12,5 @@ Qué ver en El Cairo:
 - Mezquita Al Rifa´i.
 - Museo Nacional de la Civilización Egipcia.
 
+## Foto
+![Foto de El Cairo](https://www.revigorate.com/images/Cairo-Citadel.jpg)
