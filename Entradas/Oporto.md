@@ -13,3 +13,6 @@ Qué ver en Oporto:
 
 ## Foto
 ![Foto de Oporto](https://www.viajeroscallejeros.com/wp-content/uploads/avenida-aliados-que-visitar-en-oporto.jpg)
+
+## Informacion sobre Oporto
+***Oporto*** es una ciudad costera en el noroeste de Portugal, conocida por sus imponentes puentes y la producción del oporto. En el distrito medieval de la *Ribeira*, las calles angostas de adoquines están bordeadas de casas de mercaderes y cafés. La Iglesia de San Francisco es conocida por su extravagante interior barroco, con tallados ornamentales cubiertos de oro. ***El Palácio de Bolsa*** del siglo XIX, antiguamente una bolsa de valores, fue construido para impresionar a los posibles inversionistas europeos.
