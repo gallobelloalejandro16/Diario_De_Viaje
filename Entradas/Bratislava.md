@@ -12,3 +12,6 @@ Qué ver en Bratislava:
 - Las estatuas de bronce.
 - La catedral de San Martín.
 - El río Danubio.
+
+## Foto
+![Foto de Bratislava](https://gotripzi.com/_astro/bratislava-sk-hero.CxRsJjqv.webp)
