@@ -11,3 +11,7 @@ Lugares para visitar en Roma:
 - Panteón. 
 - Sant'Angelo y su Puente. 
 - Las plazas de Roma.
+
+## Foto
+![Foto de Roma](https://www.barcelo.com/guia-turismo/wp-content/uploads/que-visitar-en-roma.jpg)
+
