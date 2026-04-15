@@ -11,3 +11,6 @@ Las atracciones más populares en Copenhague:
 - Rosenborg Castle.
 - Gliptoteca Ny Carlsberg.
 - TorvehallerneKBH. 
+
+## Foto
+![Foto de Copenhague](https://tusguiasdeviaje.com/wp-content/uploads/2017/07/guia-viaje-copenhague.jpg)
